@@ -21,6 +21,7 @@ npm install
 cp config.sample.js config.js
 cp database.empty.sqlite database.sqlite
 > EDIT config.js
+mv ffprobe ./node_modules/ffprobe-static/bin/linux/arm/
 ```
 
 
